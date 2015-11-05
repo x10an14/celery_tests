@@ -1,0 +1,20 @@
+## Sublime Text files
+*.sublime-*
+
+## Compiled Python
+*.pyc
+
+## SQLite DB files
+*.db
+
+## Vim temp files
+*.swp
+
+## Python/Flask/Pip virtual env folder
+venv/
+
+## Gedit temp files
+*~
+
+## Machine-specific pip log:
+freeze_log.txt
